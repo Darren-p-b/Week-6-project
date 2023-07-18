@@ -16,10 +16,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "cd codecards && react-scripts start",
-    "build": "cd codecards && react-scripts build",
-    "test": "cd codecards && react-scripts test",
-    "eject": "cd codecards && react-scripts eject"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
